@@ -9,9 +9,12 @@ Accessibility of data and flexibility in visualisations of trade networks are cr
 
 •	[Trade map](https://www.trademap.org/Index.aspx) – it would be useful to have annual bilateral trade flows at HS6 level (and total) of goods between all countries, if possible, if not at least those in the G20 and aggregated regions such as EU, CPTPP, GCC, G7 (blocs of interest [here](https://www.gov.uk/guidance/uk-trade-agreements-in-effect)). 
 ![Example query](images/trade/trademap_query.png)
+
 •	[Mac map](https://www.macmap.org/) – for same regions as above, the import duty (AVE) and trade remedies measure highlighted below if applicable (example [query](https://www.macmap.org/en//query/results?reporter=156&partner=842&product=870321&level=6))
 ![Example query](images/trade/macmap_query.png)
+
 •	[HMRC bulk datasets](https://www.uktradeinfo.com/trade-data/latest-bulk-datasets/) – exports, imports and import data by preference for all countries.
+
 •	[ONS trade](https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/uktotaltradeallcountriesseasonallyadjusted) – annual total trade, TiG, TiS
 
 
