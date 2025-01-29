@@ -29,7 +29,7 @@ Participants will find novel ways to update forecasts in UK consumption, investm
   
 Participants will explore new ways to harness, collate, model, and visualise data on demand in the criminal justice system.   
   
-### [Forecast and Analyse UK GDP](gdp.md)  
+### [Nowcasting UK GDP](gdp.md)  
   
 Participants to experiment with machine learning (ML) methods to create novel forecasts for UK GDP which they can compare these with traditional econometric models.   
   
