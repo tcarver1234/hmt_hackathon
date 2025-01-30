@@ -17,7 +17,7 @@ At the end of the 2 days there will be a panel to review the final project proto
 Teams can be organised ahead of time or assigned by the hackathon organisers.   
   
 ## Useful Links
-you can coomunicate and coordinate with experts and particpants via the [Hackathon Slack](http://hmtpublichackathon.slack.com/)
+you can communicate and coordinate with experts and particpants via the [Hackathon Slack](http://hmtpublichackathon.slack.com/)
   
 ## Projects:  
   
@@ -46,9 +46,6 @@ Participants will use public UK national and regional data over time to try and 
 Building 1.5m homes this parliament is one of the government top priorities. Having up to date estimates of progress against the housing target is vital when considering policy design. Official statistics measuring net additional dwellings are only released once a year and with a substantial lag whereas other potential indicators are available on a weekly basis. Your task is to build a model that predicts the outturn of the next statistics release for housing completions and housing starts. Feel free to bring any other public information into your model, and you should consider the structure of the housebuilding sector. 
 Project extensions could involve extending the forecast up to a year into the future, prioritising accuracy of the now/near term forecasts. 
   
-## Who Should Attend?  
-  
-Anyone who has some experience working with data or code and is interested in collaborating on Treasury challenges is highly encouraged to participate.   
   
 ## What to Expect?  
   
