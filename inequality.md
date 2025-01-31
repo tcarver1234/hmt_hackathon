@@ -34,22 +34,15 @@ Similarly, what we use for output is important. If one of the mechanisms that in
 ### Data Available
 If we follow the style of regression outlined above then we need data on the following areas:
 
-| Data Details          | Origin | Blob Storage |
-|-----------------------|--------|--------------|
-| Economic growth       |        |              |
-| [GDP](https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/ybha/ukea) | ONS    |              |
-| [Labour Productivity](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity) | ONS    |              |
-| [Any other approaches to growth we can think of] |        |              |
-| Human Capital         |        |              |
-| [Human Capital Index](https://datacatalog.worldbank.org/search/dataset/0038030/Human-Capital-Index) | World Bank |              |
-| Labour                |        |              |
-| [Population Growth](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates#timeseries) | ONS    |              |
-| Physical Capital      |        |              |
-| [Capital Stocks](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/bulletins/capitalstocksconsumptionoffixedcapital/previousReleases) | ONS    |              |
-| Income inequality     |        |              |
-| [Gini](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022), Palma Ratio, S80/S20, P90/P10, P50/P10 | ONS    |              |
-| Inflation rate        |        |              |
-| [CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices) / alternatives | ONS    |              |
+| Category            | Details                                                                                                                                                                                                                   |
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Economic growth     | [GDP - ONS](https://www.ons.gov.uk/economy/grossdomesticproductgdp/timeseries/ybha/ukea), [Labour Productivity](https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity)                                                              |
+| Human Capital       | [Human Capital Index](https://datacatalog.worldbank.org/search/dataset/0038030/Human-Capital-Index)                                                                                                                                                             |
+| Labour              | [Population Growth](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates#timeseries)                                                                                                                                   |
+| Physical Capital    | [Capital Stocks](https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/bulletins/capitalstocksconsumptionoffixedcapital/previousReleases)                                                                                                           |
+| Income inequality   | [Gini](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022)                                                                                   |
+| Inflation rate      | [CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices)                                                                                                                                                                     |
+
 
 
 #### Return [home](index.md)
