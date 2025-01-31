@@ -8,4 +8,13 @@ Project extensions could involve extending the forecast up to a year into the fu
 
 ### Data Available
 
+| Data                  | Source                                                                                                                                                                                                 | Data frequency | Sheet name |
+|-----------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|------------|
+| Housing completions   | [ONS](https://www.ons.gov.uk/peoplepopulationandcommunity/housing/datasets/ukhousebuildingpermanentdwellingsstartedandcompleted)                                                                      | Quarterly      | 1b         |
+| Housing starts        |                                                                                                                                                                                                       |                |            |
+| Planning applications | [communities.gov.uk](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F678517f03a9388161c5d2322%2FTables_P120_to_P138_MJPSI_PIPTDCC_Final.ods) | Quarterly      | LT_P120    |
+| Weekly EPC data       | [communities.gov.uk](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F67979be0cfd3deafa04fde90%2FEPC_live_table_200125.ods)                  | Weekly         | New        |
+
+
+
 #### Return [home](index.md)
