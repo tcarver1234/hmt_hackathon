@@ -8,7 +8,7 @@ Treasury experts have highlighted a selection of high priority projects which pr
   
 ## What is the plan?  
   
-Over the course of 2 days, we will gather in London and Edinburgh with the goal of building up a network of experts on key treasury analysis.   
+Over the course of 2 days, we will gather in London and Manchester with the goal of building up a network of experts on key treasury analysis.   
   
 Participants will form teams who chose one of the available projects where treasury experts have highlighted a need for more analysis.   
   
@@ -17,7 +17,7 @@ At the end of the 2 days there will be a panel to review the final project proto
 Teams can be organised ahead of time or assigned by the hackathon organisers.   
   
 ## Useful Links
-you can communicate and coordinate with experts and particpants via the [Hackathon Slack](http://hmtpublichackathon.slack.com/)
+you can communicate and coordinate with experts and participants via the [Hackathon Slack](http://hmtpublichackathon.slack.com/)
   
 ## Projects:  
   
