@@ -25,15 +25,21 @@ Treasury experts have highlighted a selection of high priority projects which pr
 #### 6 February 2025
 
 9:00 AM: Registration & Check-In
+
 10:00 AM: Hackathon Kick-off
+
 12:00 PM: Lunch 
+
 1:00 PM: Q & A Sessions
+
 5:00 PM: Hackathon Ends
 
 #### 7 February 2025
 
 9:00 AM: Hackathon Training
+
 2:30 PM: Judging & Presentations
+
 4:00 PM: Hackathon Ends
 
 
