@@ -8,13 +8,35 @@ Treasury experts have highlighted a selection of high priority projects which pr
   
 ## What is the plan?  
   
-Over the course of 2 days, we will gather in London and Manchester with the goal of building up a network of experts on key treasury analysis.   
+- Two-day Hackathon in teams of 4 - 7 members.
+
+- Hackers will pick their project at the beginning of day one and can organise themselves in groups within each project. 
+
+- There will be technical and policy experts at the venues available for support and advice through the event.
   
-Participants will form teams who chose one of the available projects where treasury experts have highlighted a need for more analysis.   
-  
-At the end of the 2 days there will be a panel to review the final project prototypes and select the winning finalists which are deemed the most impactful.   
-  
-Teams can be organised ahead of time or assigned by the hackathon organisers.   
+- Can refer to the Hackathon website and Slack channel for any additional resources or questions.
+
+- External experts at the venues will nominate the top teams to present their solutions.
+
+- Top teams will present their solutions for panel judges who will decide on three finalist projects based on their innovation and potential impact. 
+
+### Agenda 
+
+#### 6 February 2025
+
+9:00 AM: Registration & Check-In
+10:00 AM: Hackathon Kick-off
+12:00 PM: Lunch 
+1:00 PM: Q & A Sessions
+5:00 PM: Hackathon Ends
+
+#### 7 February 2025
+
+9:00 AM: Hackathon Training
+2:30 PM: Judging & Presentations
+4:00 PM: Hackathon Ends
+
+
   
 ## Useful Links
 you can communicate and coordinate with experts and participants via the [Hackathon Slack](http://hmtpublichackathon.slack.com/)
