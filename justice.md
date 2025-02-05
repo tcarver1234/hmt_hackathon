@@ -14,8 +14,8 @@ Participants will explore new ways to harness, collate, model, and visualise dat
 | CPS quarterly data summaries                                      | [The Crown Prosecution Service](https://www.cps.gov.uk/publication/cps-quarterly-data-summaries)                                              | 
 | Home                                                              | [data.police.uk](https://data.police.uk/)                                                                                                     |  
 | Crime in England and Wales: Police Force Area data tables         | [Office for National Statistics](https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/policeforceareadatatables)      | 
-| Charges by Offence code and crime severity                        | [downloadable data](https://tcarver1234.github.io/hmt_hackathon/Data/justice/charges_by_Offence Code_and_crime_severity(in).csv)              |
-| Cross CJS data                                                    | [downloadable data](https://tcarver1234.github.io/hmt_hackathon/Data/justice/Cross-CJS data (Police, Courts, Prisons).xlsx)                   |
+| Charges by Offence code and crime severity                        | [downloadable data](https://tcarver1234.github.io/hmt_hackathon/Data/justice/charges_by_Offence%20Code_and_crime_severity%28in%29.csv)              |
+| Cross CJS data                                                    | [downloadable data](https://tcarver1234.github.io/hmt_hackathon/Data/justice/Cross-CJS%20data%20%28Police%2C%20Courts%2C%20Prisons%29.xlsx)                   |
 
 
 Return [home](index.md)
