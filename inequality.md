@@ -43,6 +43,7 @@ If we follow the style of regression outlined above then we need data on the fol
 | Income inequality   | [Gini](https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householdincomeinequalityfinancial/financialyearending2022)                                                                                   |
 | Inflation rate      | [CPI](https://www.ons.gov.uk/economy/inflationandpriceindices/datasets/consumerpriceindices)                                                                                                                                                                     |
 
+[Download pre-processed Data](https://tcarver1234.github.io/hmt_hackathon/Data/inequality/pre-processed_inequality_data.xlsx)
 
 
 #### Return [home](index.md)
