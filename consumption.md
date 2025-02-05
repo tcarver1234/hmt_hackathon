@@ -30,6 +30,12 @@ Participants will find novel ways to update forecasts in UK consumption, investm
 | FTSE 100 INDEX | [Link](https://www.londonstockexchange.com/indices/ftse-100) |
 | Met office rainfall | [Link](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/UK.txt) |
 | Met Office temperature | [Link](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmean/date/UK.txt) |
+|----------------|--------|
+| Service Sector Survey| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/sss_databook.csv) |
+| Industrial Trends Survey| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/ITS_results.csv) |
+| Deloitte CFO Survey| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/cfo_survey.csv) |
+| Business Barometer| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/bb_main.csv) |
+| PMI composite, manufacturing, services headline measures| [Download](GB_comp_pmi_ba.xlsx) |
 
 [Download ONS Data](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/consumption_ons_data_dec2025.csv)
 
