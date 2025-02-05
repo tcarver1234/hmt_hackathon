@@ -35,7 +35,7 @@ Participants will find novel ways to update forecasts in UK consumption, investm
 | Industrial Trends Survey| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/ITS_results.csv) |
 | Deloitte CFO Survey| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/cfo_survey.csv) |
 | Business Barometer| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/bb_main.csv) |
-| PMI composite, manufacturing, services headline measures| [Download](GB_comp_pmi_ba.xlsx) |
+| PMI composite, manufacturing, services headline measures| [Download](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/GB_comp_pmi_ba.xlsx) |
 
 [Download ONS Data](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/consumption_ons_data_dec2025.csv)
 
