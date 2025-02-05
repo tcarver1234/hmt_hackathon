@@ -31,6 +31,7 @@ Participants will find novel ways to update forecasts in UK consumption, investm
 | Met office rainfall | [Link](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Rainfall/date/UK.txt) |
 | Met Office temperature | [Link](https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmean/date/UK.txt) |
 
+[Download ONS Data](https://tcarver1234.github.io/hmt_hackathon/Data/consumption/consumption_ons_data_dec2025.csv)
 
 #### Return [home](index.md)
 
